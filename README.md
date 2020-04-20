@@ -6,6 +6,7 @@
 ```
 bash <(wget --no-check-certificate -qO- https://github.com/asuhu/lotServer/raw/master/Install.sh) install
 ```
+### 授权 https://github.com/asuhu/LotServer_KeyGen 
 
 ### 指定内核安装
 ```
